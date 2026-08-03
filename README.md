@@ -2,7 +2,7 @@
 
 Sonolus / NextSekai 向けのブラウザ譜面エディタです。
 
-**https://mukumuku.netlify.app**
+**https://mukumukuworld.netlify.app**
 
 インストール不要で、上記URLにアクセスするだけですぐ使えます。開発者（itx42c3）がiPadで使いたいのでiPad（横向き固定・Apple Pencil + 外部キーボード + 指タッチ対応）に最適化して開発していますが、MITライセンスですのでご自身の使いたいデバイス用に最適化・カスタマイズしてご自由にお使いいただけます。
 
